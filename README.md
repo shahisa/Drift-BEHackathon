@@ -9,4 +9,4 @@ The Black Enterprise Techconnect Hackathon application built using the Ionic fra
 # Application Details
 The application purpose is to allow drivers to be rewarded for safe driving habits. It operates as a social media app too. It would allow a leaderboard for points between friends that use the app. One gains more points for doing safe driving habits and others lose points for unsafe driving. The more points one has the more rewards one gains. 
 # Gif of the App
-<img src="http://imgur.com/TJSUugP">
+<img src="http://i.imgur.com/TJSUugP.gif">
